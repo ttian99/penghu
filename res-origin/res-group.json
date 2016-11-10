@@ -1,0 +1,18 @@
+{
+  "boot": {
+    "priority": 0,
+    "ani": [
+      {"name": "loading", "start": 0, "end": 5, "pad": 0, "delay": 0.15},
+      {"name": "walking", "start": 0, "end": 3, "pad": 0, "delay": 0.15}
+    ]
+  },
+  "startMenu": {
+    "priority": 1
+  },
+  "public": {
+    "priority": 1
+  },
+  "battle": {
+    "priority": 1
+  }
+}
